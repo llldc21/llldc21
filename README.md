@@ -21,3 +21,4 @@ I am dedicating myself to learning Golang because I find the language and the co
 I love to program and learn more about how to become a better programmer, I like even more to participate in projects that directly impact people's lives.
 I love to read and go to the beach with my wife.
 </p>
+<hr></hr>
