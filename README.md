@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   </div>
-<p align="justify">
+<p align="center">
 I currently work with Nodejs, Typescript and SQL Server.
 I am dedicating myself to learning Golang because I find the language and the comments about it very interesting.
 
