@@ -13,7 +13,8 @@
   <img src="https://img.icons8.com/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  </div>
+</div>
+<hr></hr>
 <p align="justify">
 I currently work with Nodejs, Typescript and SQL Server.
 I am dedicating myself to learning Golang because I find the language and the comments about it very interesting.
