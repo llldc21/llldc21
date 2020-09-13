@@ -1,1 +1,6 @@
-<h1 align="center">Hello there! I'm <a href="llldc21.github.io" style="text-decoration:none">Lucas Lima</a>.</h1>
+<h1 align="center">Hello there! I'm <a href="llldc21.github.io">Lucas Lima</a>.</h1>
+<p align="center">I'm a backend developer at <a href=http://devires.com.br/>Devires</a></p>
+<div align="center">
+  <img src="https://img.icons8.com/dusk/64/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+</div>
