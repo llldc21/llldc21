@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   </div>
-<p align="center">
+<p align="justify">
 I currently work with Nodejs, Typescript and SQL Server.
 I am dedicating myself to learning Golang because I find the language and the comments about it very interesting.
 I love to program and learn more about how to become a better programmer, I like even more to participate in projects that directly impact people's lives.
